@@ -13,6 +13,17 @@
 		F962948F258AA848008F5C7A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F962948D258AA848008F5C7A /* Main.storyboard */; };
 		F9629491258AA84A008F5C7A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F9629490258AA84A008F5C7A /* Assets.xcassets */; };
 		F9629494258AA84A008F5C7A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9629492258AA84A008F5C7A /* LaunchScreen.storyboard */; };
+		F96294A6258AA911008F5C7A /* light_off.png in Resources */ = {isa = PBXBuildFile; fileRef = F962949C258AA910008F5C7A /* light_off.png */; };
+		F96294A7258AA911008F5C7A /* iconBig.png in Resources */ = {isa = PBXBuildFile; fileRef = F962949D258AA910008F5C7A /* iconBig.png */; };
+		F96294A8258AA911008F5C7A /* Icon-72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F962949E258AA910008F5C7A /* Icon-72@2x.png */; };
+		F96294A9258AA911008F5C7A /* light_on.png in Resources */ = {isa = PBXBuildFile; fileRef = F962949F258AA910008F5C7A /* light_on.png */; };
+		F96294AA258AA911008F5C7A /* Icon-Small-50@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F96294A0258AA911008F5C7A /* Icon-Small-50@2x.png */; };
+		F96294AB258AA911008F5C7A /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F96294A1258AA911008F5C7A /* Icon@2x.png */; };
+		F96294AC258AA911008F5C7A /* Icon-60.png in Resources */ = {isa = PBXBuildFile; fileRef = F96294A2258AA911008F5C7A /* Icon-60.png */; };
+		F96294AD258AA911008F5C7A /* Icon-Small-50.png in Resources */ = {isa = PBXBuildFile; fileRef = F96294A3258AA911008F5C7A /* Icon-Small-50.png */; };
+		F96294AE258AA911008F5C7A /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = F96294A4258AA911008F5C7A /* Icon-72.png */; };
+		F96294AF258AA911008F5C7A /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = F96294A5258AA911008F5C7A /* Icon.png */; };
+		F96294B2258AAAA5008F5C7A /* linearGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = F96294B1258AAAA5008F5C7A /* linearGame.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +35,17 @@
 		F9629490258AA84A008F5C7A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F9629493258AA84A008F5C7A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F9629495258AA84A008F5C7A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F962949C258AA910008F5C7A /* light_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = light_off.png; sourceTree = "<group>"; };
+		F962949D258AA910008F5C7A /* iconBig.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iconBig.png; sourceTree = "<group>"; };
+		F962949E258AA910008F5C7A /* Icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72@2x.png"; sourceTree = "<group>"; };
+		F962949F258AA910008F5C7A /* light_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = light_on.png; sourceTree = "<group>"; };
+		F96294A0258AA911008F5C7A /* Icon-Small-50@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50@2x.png"; sourceTree = "<group>"; };
+		F96294A1258AA911008F5C7A /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		F96294A2258AA911008F5C7A /* Icon-60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60.png"; sourceTree = "<group>"; };
+		F96294A3258AA911008F5C7A /* Icon-Small-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50.png"; sourceTree = "<group>"; };
+		F96294A4258AA911008F5C7A /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
+		F96294A5258AA911008F5C7A /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		F96294B1258AAAA5008F5C7A /* linearGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = linearGame.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +78,16 @@
 		F9629486258AA848008F5C7A /* Linear Light Out */ = {
 			isa = PBXGroup;
 			children = (
+				F96294A2258AA911008F5C7A /* Icon-60.png */,
+				F96294A4258AA911008F5C7A /* Icon-72.png */,
+				F962949E258AA910008F5C7A /* Icon-72@2x.png */,
+				F96294A3258AA911008F5C7A /* Icon-Small-50.png */,
+				F96294A0258AA911008F5C7A /* Icon-Small-50@2x.png */,
+				F96294A5258AA911008F5C7A /* Icon.png */,
+				F96294A1258AA911008F5C7A /* Icon@2x.png */,
+				F962949D258AA910008F5C7A /* iconBig.png */,
+				F962949C258AA910008F5C7A /* light_off.png */,
+				F962949F258AA910008F5C7A /* light_on.png */,
 				F9629487258AA848008F5C7A /* AppDelegate.swift */,
 				F9629489258AA848008F5C7A /* SceneDelegate.swift */,
 				F962948B258AA848008F5C7A /* ViewController.swift */,
@@ -63,6 +95,7 @@
 				F9629490258AA84A008F5C7A /* Assets.xcassets */,
 				F9629492258AA84A008F5C7A /* LaunchScreen.storyboard */,
 				F9629495258AA84A008F5C7A /* Info.plist */,
+				F96294B1258AAAA5008F5C7A /* linearGame.swift */,
 			);
 			path = "Linear Light Out";
 			sourceTree = "<group>";
@@ -124,9 +157,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F96294AC258AA911008F5C7A /* Icon-60.png in Resources */,
 				F9629494258AA84A008F5C7A /* LaunchScreen.storyboard in Resources */,
+				F96294AD258AA911008F5C7A /* Icon-Small-50.png in Resources */,
+				F96294AB258AA911008F5C7A /* Icon@2x.png in Resources */,
 				F9629491258AA84A008F5C7A /* Assets.xcassets in Resources */,
+				F96294AE258AA911008F5C7A /* Icon-72.png in Resources */,
+				F96294AA258AA911008F5C7A /* Icon-Small-50@2x.png in Resources */,
+				F96294AF258AA911008F5C7A /* Icon.png in Resources */,
+				F96294A8258AA911008F5C7A /* Icon-72@2x.png in Resources */,
+				F96294A7258AA911008F5C7A /* iconBig.png in Resources */,
+				F96294A6258AA911008F5C7A /* light_off.png in Resources */,
 				F962948F258AA848008F5C7A /* Main.storyboard in Resources */,
+				F96294A9258AA911008F5C7A /* light_on.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,6 +180,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F96294B2258AAAA5008F5C7A /* linearGame.swift in Sources */,
 				F962948C258AA848008F5C7A /* ViewController.swift in Sources */,
 				F9629488258AA848008F5C7A /* AppDelegate.swift in Sources */,
 				F962948A258AA848008F5C7A /* SceneDelegate.swift in Sources */,
